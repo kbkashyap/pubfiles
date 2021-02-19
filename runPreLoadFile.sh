@@ -1,0 +1,1 @@
+wget -O /tmp/SampleImage.png https://github.com/kbkashyap/pubfiles/raw/main/SampleImage.png
