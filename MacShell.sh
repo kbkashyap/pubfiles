@@ -1,1 +1,1 @@
-#!/bin/bash curl -o /tmp/Dwnlad.mjpeg https://raw.githubusercontent.com/kbkashyap/pubfiles/main/sampleimage.mjpeg
+#!/bin/bash curl -o /Users/chef/Desktop/Dwnlad.mjpeg https://raw.githubusercontent.com/kbkashyap/pubfiles/main/sampleimage.mjpeg
